@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Environment Variables
+variables.env
+secrets.json
+
+# No swap file
+*.swp
